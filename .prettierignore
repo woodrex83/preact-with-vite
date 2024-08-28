@@ -1,0 +1,7 @@
+# Ignore artifacts:
+dist
+node_modules
+coverage
+build
+/test-results/
+/playwright-report/

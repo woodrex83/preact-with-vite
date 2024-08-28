@@ -1,0 +1,28 @@
+{
+    "git.suggestSmartCommit": false,
+    "git.confirmSync": false,
+    "explorer.confirmDelete": false,
+    "python.createEnvironment.trigger": "off",
+    "workbench.colorTheme": "Astral Green 🪐",
+    "typescript.preferences.quoteStyle": "double",
+    "javascript.preferences.quoteStyle": "double",
+    "editor.tabSize": 4,
+    "breadcrumbs.enabled": true,
+    "prettier.semi": true,
+    "prettier.singleQuote": false,
+    "prettier.jsxSingleQuote": false,
+    "prettier.arrowParens": "always",
+    "prettier.useTabs": false,
+    "eslint.useFlatConfig": true,
+    "eslint.format.enable": true,
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": "explicit"
+    },
+    "eslint.validate": ["javascript", "typescript", "typescriptreact"],
+    "python.analysis.fixAll": [],
+    "editor.formatOnSave": true,
+    "prettier.requireConfig": true,
+    "prettier.printWidth": 120,
+    "prettier.tabWidth": 4,
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+}
